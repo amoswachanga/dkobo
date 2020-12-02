@@ -27,7 +27,7 @@ Django==1.8.9
 djangorestframework==3.3.2
 gunicorn==19.4.5
 hamlpy==0.82.2
-lxml==2.3.4
+lxml==4.6.2
 manifesto==0.5
 markdown==2.6.5           # via django-markdown, hamlpy
 psycopg2==2.6.1           # via django-toolbelt
