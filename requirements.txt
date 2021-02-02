@@ -23,7 +23,7 @@ django-reversion==1.10.1
 django-ses==0.7.0
 django-taggit==0.18.0
 django-toolbelt==0.0.1
-Django==1.8.9
+Django==2.2.18
 djangorestframework==3.3.2
 gunicorn==19.4.5
 hamlpy==0.82.2
