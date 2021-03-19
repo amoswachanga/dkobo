@@ -31,7 +31,7 @@ lxml==2.3.4
 manifesto==0.5
 markdown==2.6.5           # via django-markdown, hamlpy
 psycopg2==2.6.1           # via django-toolbelt
-pygments==2.1             # via hamlpy
+pygments==2.7.4             # via hamlpy
 python-digest==1.7
 raven==5.10.2
 rcssmin==1.0.6            # via django-compressor
