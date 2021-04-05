@@ -24,7 +24,7 @@ django-ses==0.7.0
 django-taggit==0.18.0
 django-toolbelt==0.0.1
 Django==1.8.9
-djangorestframework==3.3.2
+djangorestframework==3.11.2
 gunicorn==19.4.5
 hamlpy==0.82.2
 lxml==2.3.4
